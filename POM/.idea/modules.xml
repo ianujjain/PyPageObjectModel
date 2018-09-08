@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../OrangeHRM/.idea/OrangeHRM.iml" filepath="$PROJECT_DIR$/../OrangeHRM/.idea/OrangeHRM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../PHPTravels/.idea/PHPTravels.iml" filepath="$PROJECT_DIR$/../PHPTravels/.idea/PHPTravels.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/POM.iml" filepath="$PROJECT_DIR$/.idea/POM.iml" />
+    </modules>
+  </component>
+</project>
