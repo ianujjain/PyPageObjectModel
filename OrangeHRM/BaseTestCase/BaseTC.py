@@ -11,18 +11,8 @@ class BaseTC(unittest.TestCase):
         inst.driver.get('https://opensource-demo.orangehrmlive.com/')
 
 
-    def setUp(self):
-        pass;
-
-
-
-
-    def tearDown(self):
-        pass;
-
-
     @classmethod
     def tearDownClass(inst):
         if (inst.driver != None):
-            inst.driver.close()
-            inst.driver.quit()
+            inst.driver.close();
+            inst.driver.quit();
